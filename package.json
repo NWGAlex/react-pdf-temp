@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "@react-pdf/root",
+  "name": "@nwg-alex/react-pdf-temp",
   "version": "2.0.0",
   "license": "MIT",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "author": "NWGAlex <alexander.wulkan@nwg.se>",
+  "homepage": "https://github.com/NWGAlex/react-pdf-temp#readme",
   "type": "module",
-  "repository": "git@github.com:diegomura/react-pdf.git",
+  "repository": "git@github.com:NWGAlex/react-pdf-temp.git",
   "workspaces": [
     "packages/*",
     "packages/examples/*",
@@ -20,7 +20,7 @@
     "prepublish": "lerna run build",
     "lint": "eslint packages",
     "test": "vitest",
-    "dev": "lerna run dev --scope @react-pdf/examples --",
+    "dev": "lerna run dev --scope @react-pdf-temp/examples --",
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "changeset publish"
@@ -89,11 +89,6 @@
       "yarn lint",
       "prettier --write"
     ]
-  },
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/react-pdf",
-    "logo": "https://opencollective.com/opencollective/logo.txt"
   },
   "packageManager": "yarn@1.22.19"
 }
