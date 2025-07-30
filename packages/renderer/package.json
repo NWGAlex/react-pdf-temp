@@ -1,6 +1,6 @@
 {
   "name": "@nwg-alex/react-pdf-renderer-temp",
-  "version": "4.3.0",
+  "version": "4.5.0",
   "license": "MIT",
   "description": "Create PDF files on the browser and server",
   "author": "NWGAlex <alexander.wulkan@nwg.se>",
@@ -26,7 +26,7 @@
     "@babel/runtime": "^7.20.13",
     "@react-pdf/fns": "3.1.2",
     "@react-pdf/font": "^4.0.2",
-    "@nwg-alex/react-pdf-layout-temp": "^4.4.0",
+    "@nwg-alex/react-pdf-layout-temp": "^4.5.0",
     "@react-pdf/pdfkit": "^4.0.3",
     "@react-pdf/primitives": "^4.1.1",
     "@react-pdf/reconciler": "^1.1.4",
