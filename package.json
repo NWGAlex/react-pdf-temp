@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "@nwg-alex/react-pdf-temp",
   "version": "2.0.0",
   "license": "MIT",
